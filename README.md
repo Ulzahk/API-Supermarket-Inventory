@@ -1,5 +1,5 @@
 <h1 align="center">
-  <br>Supermarket Inventory API<br>
+  <br>API Supermarket Inventory<br>
 </h1>
 <p align="center"><p>
 
@@ -11,5 +11,5 @@
 </div>
 
 <p align="center">
-  Supermarket Inventory API is a simple system that aims to provide the routes, data and other means of connection to a basic inventory model.
+  API Supermarket Inventory is a simple system that aims to provide the routes, data and other means of connection to a basic inventory model.
 </p>
