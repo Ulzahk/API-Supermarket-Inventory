@@ -2,7 +2,6 @@ const { MongoClient } = require("mongodb");
 const { DB_URL, DB_NAME, DB_COLLECTION } = require("./env-variables");
 
 const client = new MongoClient(DB_URL);
-
 const main = async () => {
   await client.connect();
   // console.log("Connected successfully to server");
